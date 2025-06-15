@@ -594,10 +594,34 @@
   
   
   
-        
-            <div class="w-full h-36 md:h-56 lg:h-72 single_hero_basic nozoom" style="background-image:url(/fictions/%E5%A4%AA%E9%98%B3%E7%AA%83%E5%8F%96%E9%A2%84%E5%91%8A_%E6%80%AA%E7%9B%97%E8%8E%BA%E7%8C%AB%E7%99%BB%E5%9C%BA/feature_city_of_night_adventure_hu_76f2f259be9ef659.png);"></div>
-        
+
+
+<div id="hero" class="h-[150px] md:h-[200px]"></div>
+
+
+
     
+    <div class="fixed inset-x-0 top-0 h-[800px] single_hero_background nozoom"
+    style="background-image:url(/fictions/%E5%A4%AA%E9%98%B3%E7%AA%83%E5%8F%96%E9%A2%84%E5%91%8A_%E6%80%AA%E7%9B%97%E8%8E%BA%E7%8C%AB%E7%99%BB%E5%9C%BA/feature_city_of_night_adventure_hu_76f2f259be9ef659.png);">
+    
+
+
+    <div class="absolute inset-0 bg-gradient-to-t from-neutral dark:from-neutral-800 to-transparent mix-blend-normal">
+    </div>
+    <div
+        class="absolute inset-0 opacity-60 bg-gradient-to-t from-neutral dark:from-neutral-800 to-neutral-100 dark:to-neutral-800 mix-blend-normal">
+    </div>
+</div>
+
+<div id="background-blur" class="fixed opacity-0 inset-x-0 top-0 h-full single_hero_background nozoom backdrop-blur-2xl"></div>
+<script>
+    window.addEventListener('scroll', function (e) {
+        var scroll = window.pageYOffset || document.documentElement.scrollTop || document.body.scrollTop || 0;
+        var background_blur = document.getElementById('background-blur');
+        background_blur.style.opacity = (scroll / 300)
+    });
+</script>
+
   
   
 
