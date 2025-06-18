@@ -3,62 +3,74 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
+    <loc>https://www.yumieko.com/games/gamejam2022/</loc>
+    <lastmod>2025-06-18T20:33:23+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.yumieko.com/games/gamejam2020/</loc>
+    <lastmod>2025-06-18T20:33:23+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://www.yumieko.com/games/</loc>
-    <lastmod>2025-06-18T20:29:08+08:00</lastmod>
+    <lastmod>2025-06-18T20:33:23+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://www.yumieko.com/games/godot_touhou_template/</loc>
-    <lastmod>2025-06-18T20:29:08+08:00</lastmod>
+    <lastmod>2025-06-18T20:33:23+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://www.yumieko.com/games/fuurain_nigigd_1/</loc>
-    <lastmod>2025-06-18T20:29:08+08:00</lastmod>
+    <lastmod>2025-06-18T20:33:23+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://www.yumieko.com/games/fuurain_nigigd_2/</loc>
-    <lastmod>2025-06-18T20:29:08+08:00</lastmod>
+    <lastmod>2025-06-18T20:33:23+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://www.yumieko.com/games/fuurain_nigigd_3/</loc>
-    <lastmod>2025-06-18T20:29:08+08:00</lastmod>
+    <lastmod>2025-06-18T20:33:23+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://www.yumieko.com/games/fuurain_nigigd_4/</loc>
-    <lastmod>2025-06-18T20:29:08+08:00</lastmod>
+    <lastmod>2025-06-18T20:33:23+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://www.yumieko.com/</loc>
-    <lastmod>2025-06-18T20:29:08+08:00</lastmod>
+    <lastmod>2025-06-18T20:33:23+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://www.yumieko.com/games/shangrira_gd_1/</loc>
-    <lastmod>2025-06-18T20:29:08+08:00</lastmod>
+    <lastmod>2025-06-18T20:33:23+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://www.yumieko.com/games/shangrira_gd_2/</loc>
-    <lastmod>2025-06-18T20:29:08+08:00</lastmod>
+    <lastmod>2025-06-18T20:33:23+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://www.yumieko.com/games/shangrira_gd_3/</loc>
-    <lastmod>2025-06-18T20:29:08+08:00</lastmod>
+    <lastmod>2025-06-18T20:33:23+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
