@@ -7,12 +7,42 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>© 2025 明琪小梦</copyright>
-    <lastBuildDate>Wed, 18 Jun 2025 00:00:00 +0800</lastBuildDate><atom:link href="https://www.yumieko.com/categories/%E5%B0%8F%E6%A2%A6%E9%9F%B3%E4%B9%90/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 18 Jun 2024 00:00:00 +0800</lastBuildDate><atom:link href="https://www.yumieko.com/categories/%E5%B0%8F%E6%A2%A6%E9%9F%B3%E4%B9%90/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>重写梦之序曲Demo</title>
+      <link>https://www.yumieko.com/musics/galaxy_secret_yakusouku/</link>
+      <pubDate>Tue, 18 Jun 2024 00:00:00 +0800</pubDate>
+      
+      <guid>https://www.yumieko.com/musics/galaxy_secret_yakusouku/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.yumieko.com/musics/galaxy_secret_yakusouku/feature-minkie9.png" />
+    </item>
+    
+    <item>
+      <title>魔法少女小风，变身！</title>
+      <link>https://www.yumieko.com/musics/magicgirl_fuu/</link>
+      <pubDate>Sun, 18 Jun 2023 00:00:00 +0800</pubDate>
+      
+      <guid>https://www.yumieko.com/musics/magicgirl_fuu/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>星月夜、樱花舞</title>
+      <link>https://www.yumieko.com/musics/galaxy_sakurafly/</link>
+      <pubDate>Sun, 18 Jun 2023 00:00:00 +0800</pubDate>
+      
+      <guid>https://www.yumieko.com/musics/galaxy_sakurafly/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>飞鸟花落曲</title>
       <link>https://www.yumieko.com/musics/birdflowerblow/</link>
-      <pubDate>Wed, 18 Jun 2025 00:00:00 +0800</pubDate>
+      <pubDate>Sat, 18 Jun 2022 00:00:00 +0800</pubDate>
       
       <guid>https://www.yumieko.com/musics/birdflowerblow/</guid>
       <description></description>
@@ -22,7 +52,7 @@
     <item>
       <title>梦之序曲</title>
       <link>https://www.yumieko.com/musics/yumestart/</link>
-      <pubDate>Wed, 18 Jun 2025 00:00:00 +0800</pubDate>
+      <pubDate>Sat, 18 Jun 2022 00:00:00 +0800</pubDate>
       
       <guid>https://www.yumieko.com/musics/yumestart/</guid>
       <description></description>
@@ -32,7 +62,7 @@
     <item>
       <title>绵延不断的旅途</title>
       <link>https://www.yumieko.com/musics/endlessendlessjournery/</link>
-      <pubDate>Wed, 18 Jun 2025 00:00:00 +0800</pubDate>
+      <pubDate>Sat, 18 Jun 2022 00:00:00 +0800</pubDate>
       
       <guid>https://www.yumieko.com/musics/endlessendlessjournery/</guid>
       <description></description>
@@ -40,43 +70,13 @@
     </item>
     
     <item>
-      <title>魔法少女小风，变身！</title>
-      <link>https://www.yumieko.com/musics/magicgirl_fuu/</link>
-      <pubDate>Wed, 18 Jun 2025 00:00:00 +0800</pubDate>
-      
-      <guid>https://www.yumieko.com/musics/magicgirl_fuu/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>星夜云端之旅</title>
       <link>https://www.yumieko.com/musics/starnightcloud/</link>
-      <pubDate>Wed, 18 Jun 2025 00:00:00 +0800</pubDate>
+      <pubDate>Sat, 18 Jun 2022 00:00:00 +0800</pubDate>
       
       <guid>https://www.yumieko.com/musics/starnightcloud/</guid>
       <description></description>
       
-    </item>
-    
-    <item>
-      <title>星月夜、樱花舞</title>
-      <link>https://www.yumieko.com/musics/galaxy_sakurafly/</link>
-      <pubDate>Wed, 18 Jun 2025 00:00:00 +0800</pubDate>
-      
-      <guid>https://www.yumieko.com/musics/galaxy_sakurafly/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>重写梦之序曲Demo</title>
-      <link>https://www.yumieko.com/musics/galaxy_secret_yakusouku/</link>
-      <pubDate>Wed, 18 Jun 2025 00:00:00 +0800</pubDate>
-      
-      <guid>https://www.yumieko.com/musics/galaxy_secret_yakusouku/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.yumieko.com/musics/galaxy_secret_yakusouku/feature-minkie9.png" />
     </item>
     
   </channel>
