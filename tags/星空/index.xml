@@ -19,5 +19,15 @@
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.yumieko.com/galleries/%E6%98%9F%E7%A9%BA%E4%B8%8B%E7%9A%84%E7%89%B5%E6%89%8B/feature-minkie9.png" />
     </item>
     
+    <item>
+      <title>星空下的秘密约定</title>
+      <link>https://www.yumieko.com/musics/galaxy_secret_yakusouku/</link>
+      <pubDate>Sun, 18 Jun 2023 00:00:00 +0800</pubDate>
+      
+      <guid>https://www.yumieko.com/musics/galaxy_secret_yakusouku/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.yumieko.com/musics/galaxy_secret_yakusouku/feature-minkie9.png" />
+    </item>
+    
   </channel>
 </rss>
