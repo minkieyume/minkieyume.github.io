@@ -3,6 +3,24 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
+    <loc>https://www.yumieko.com/fictions/</loc>
+    <lastmod>2025-07-02T18:51:51+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.yumieko.com/</loc>
+    <lastmod>2025-07-02T18:51:51+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.yumieko.com/fictions/galaxy_/</loc>
+    <lastmod>2025-07-02T18:51:51+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://www.yumieko.com/games/gamejam2022/</loc>
     <lastmod>2025-07-01T08:02:49+08:00</lastmod>
     <changefreq>daily</changefreq>
@@ -47,12 +65,6 @@
   <url>
     <loc>https://www.yumieko.com/games/fuurain_nigigd_4/</loc>
     <lastmod>2025-07-01T08:02:49+08:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://www.yumieko.com/</loc>
-    <lastmod>2025-07-01T08:16:25+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -137,12 +149,6 @@
   <url>
     <loc>https://www.yumieko.com/games/%E5%A4%9C%E4%B9%8B%E5%9F%8E%E4%BC%A0%E8%AF%B4---%E5%88%9B%E4%BD%9C%E6%97%A5%E5%BF%97%233/</loc>
     <lastmod>2025-06-22T15:17:47+08:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://www.yumieko.com/fictions/</loc>
-    <lastmod>2025-06-25T23:49:12+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
