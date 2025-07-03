@@ -10,7 +10,7 @@
   </url>
   <url>
     <loc>https://www.yumieko.com/</loc>
-    <lastmod>2025-07-02T19:48:42+08:00</lastmod>
+    <lastmod>2025-07-03T11:44:35+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -197,6 +197,12 @@
   <url>
     <loc>https://www.yumieko.com/reflections/%E6%B0%B4%E6%98%9F%E9%A2%86%E8%88%AA%E5%91%98s2e3/</loc>
     <lastmod>2025-06-11T12:33:12+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.yumieko.com/license/</loc>
+    <lastmod>2025-07-03T11:44:35+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
