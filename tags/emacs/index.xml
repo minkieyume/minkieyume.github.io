@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Emacs on 明琪的秘密基地</title>
+    <link>https://www.yumieko.com/tags/emacs/</link>
+    <description>Recent content in Emacs on 明琪的秘密基地</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>© 2025 MinkieYume 版权所有。本站全部作品采用 [创作者共享协议](https://www.yumieko.com/license) 授权。</copyright>
+    <lastBuildDate>Sat, 05 Jul 2025 10:03:05 +0800</lastBuildDate><atom:link href="https://www.yumieko.com/tags/emacs/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>折腾Emacs的Guile开发环境的笔记</title>
+      <link>https://www.yumieko.com/programs/chiko-guile/</link>
+      <pubDate>Sat, 05 Jul 2025 10:03:05 +0800</pubDate>
+      
+      <guid>https://www.yumieko.com/programs/chiko-guile/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

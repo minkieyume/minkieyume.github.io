@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>© 2025 MinkieYume 版权所有。本站全部作品采用 [创作者共享协议](https://www.yumieko.com/license) 授权。</copyright>
-    <lastBuildDate>Fri, 04 Jul 2025 22:24:40 +0800</lastBuildDate><atom:link href="https://www.yumieko.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 05 Jul 2025 10:03:05 +0800</lastBuildDate><atom:link href="https://www.yumieko.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>折腾Emacs的Guile开发环境的笔记</title>
+      <link>https://www.yumieko.com/programs/chiko-guile/</link>
+      <pubDate>Sat, 05 Jul 2025 10:03:05 +0800</pubDate>
+      
+      <guid>https://www.yumieko.com/programs/chiko-guile/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>琪可琪可的心动史</title>
