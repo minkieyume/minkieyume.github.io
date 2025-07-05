@@ -45,92 +45,32 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://www.yumieko.com/games/gamejam2022/</loc>
-    <lastmod>2025-07-01T08:02:49+08:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://www.yumieko.com/games/gamejam2020/</loc>
-    <lastmod>2025-07-01T08:02:49+08:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://www.yumieko.com/games/</loc>
-    <lastmod>2025-07-01T08:02:49+08:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://www.yumieko.com/games/godot_touhou_template/</loc>
-    <lastmod>2025-07-01T08:02:49+08:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://www.yumieko.com/games/fuurain_nigigd_1/</loc>
-    <lastmod>2025-07-01T08:02:49+08:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://www.yumieko.com/games/fuurain_nigigd_2/</loc>
-    <lastmod>2025-07-01T08:02:49+08:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://www.yumieko.com/games/fuurain_nigigd_3/</loc>
-    <lastmod>2025-07-01T08:02:49+08:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://www.yumieko.com/games/fuurain_nigigd_4/</loc>
-    <lastmod>2025-07-01T08:02:49+08:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://www.yumieko.com/games/shangrira_gd_1/</loc>
-    <lastmod>2025-07-01T08:02:49+08:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://www.yumieko.com/games/shangrira_gd_2/</loc>
-    <lastmod>2025-07-01T08:02:49+08:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://www.yumieko.com/games/shangrira_gd_3/</loc>
-    <lastmod>2025-07-01T08:02:49+08:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://www.yumieko.com/games/gamejam2025/</loc>
-    <lastmod>2025-07-01T08:02:49+08:00</lastmod>
+    <lastmod>2025-07-01T08:00:00+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://www.yumieko.com/galleries/chikochiko/</loc>
-    <lastmod>2025-07-01T08:16:25+08:00</lastmod>
+    <lastmod>2025-07-01T08:00:00+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://www.yumieko.com/galleries/</loc>
-    <lastmod>2025-07-01T08:16:25+08:00</lastmod>
+    <lastmod>2025-07-01T08:00:00+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.yumieko.com/games/</loc>
+    <lastmod>2025-07-01T08:00:00+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://www.yumieko.com/games/rm-migong/</loc>
-    <lastmod>2025-07-01T08:02:49+08:00</lastmod>
+    <lastmod>2025-06-30T08:00:00+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -297,8 +237,14 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://www.yumieko.com/games/shangrira_gd_3/</loc>
+    <lastmod>2024-06-18T18:00:00+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://www.yumieko.com/musics/</loc>
-    <lastmod>2025-06-21T09:26:48+08:00</lastmod>
+    <lastmod>2024-06-18T00:00:00+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -328,7 +274,7 @@
   </url>
   <url>
     <loc>https://www.yumieko.com/musics/drem_start/</loc>
-    <lastmod>2025-06-21T09:26:48+08:00</lastmod>
+    <lastmod>2024-06-18T00:00:00+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -369,20 +315,38 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://www.yumieko.com/games/fuurain_nigigd_1/</loc>
+    <lastmod>2023-06-18T18:00:00+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.yumieko.com/games/fuurain_nigigd_2/</loc>
+    <lastmod>2023-06-18T18:00:00+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.yumieko.com/games/fuurain_nigigd_4/</loc>
+    <lastmod>2023-06-18T18:00:00+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://www.yumieko.com/musics/magicgirl_fuu/</loc>
-    <lastmod>2025-06-21T09:26:48+08:00</lastmod>
+    <lastmod>2023-06-18T00:00:00+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://www.yumieko.com/musics/galaxy_secret_yakusouku/</loc>
-    <lastmod>2025-06-21T09:26:48+08:00</lastmod>
+    <lastmod>2023-06-18T00:00:00+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://www.yumieko.com/musics/galaxy_sakurafly/</loc>
-    <lastmod>2025-06-21T09:26:48+08:00</lastmod>
+    <lastmod>2023-06-18T00:00:00+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -399,32 +363,65 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://www.yumieko.com/games/gamejam2022/</loc>
+    <lastmod>2022-06-18T18:00:00+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.yumieko.com/games/godot_touhou_template/</loc>
+    <lastmod>2022-06-18T18:00:00+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://www.yumieko.com/musics/birdflowerblow/</loc>
-    <lastmod>2025-06-21T09:26:48+08:00</lastmod>
+    <lastmod>2022-06-18T00:00:00+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://www.yumieko.com/musics/yumestart/</loc>
-    <lastmod>2025-06-21T09:26:48+08:00</lastmod>
+    <lastmod>2022-06-18T00:00:00+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://www.yumieko.com/musics/endlessendlessjournery/</loc>
-    <lastmod>2025-06-21T09:26:48+08:00</lastmod>
+    <lastmod>2022-06-18T00:00:00+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://www.yumieko.com/musics/starnightcloud/</loc>
-    <lastmod>2025-06-21T09:26:48+08:00</lastmod>
+    <lastmod>2022-06-18T00:00:00+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://www.yumieko.com/fictions/%E8%BF%B7%E5%A4%B1%E5%B0%91%E5%A5%B3%E6%97%A5%E8%AE%B0/</loc>
     <lastmod>2021-06-21T09:09:39+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.yumieko.com/games/gamejam2020/</loc>
+    <lastmod>2020-06-18T18:00:00+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.yumieko.com/games/fuurain_nigigd_3/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.yumieko.com/games/shangrira_gd_1/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.yumieko.com/games/shangrira_gd_2/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
