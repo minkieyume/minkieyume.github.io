@@ -429,6 +429,11 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://www.yumieko.com/term/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://www.yumieko.com/games/fuurain_nigigd_3/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
