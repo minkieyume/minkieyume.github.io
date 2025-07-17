@@ -129,5 +129,15 @@
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.yumieko.com/galleries/%E6%98%9F%E7%A9%BA%E4%B8%8B%E7%9A%84%E7%89%B5%E6%89%8B/feature-minkie9.png" />
     </item>
     
+    <item>
+      <title>美少女小梦的休憩</title>
+      <link>https://www.yumieko.com/galleries/yumi-miwu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.yumieko.com/galleries/yumi-miwu/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.yumieko.com/galleries/yumi-miwu/feature-yumimiwu.png" />
+    </item>
+    
   </channel>
 </rss>

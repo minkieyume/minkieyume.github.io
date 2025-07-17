@@ -439,6 +439,11 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://www.yumieko.com/galleries/yumi-miwu/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://www.yumieko.com/games/shangrira_gd_1/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
