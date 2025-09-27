@@ -4,16 +4,20 @@
     <title>总览 on 明琪的秘密基地</title>
     <link>https://www.yumieko.com/tags/%E6%80%BB%E8%A7%88/</link>
     <description>Recent content in 总览 on 明琪的秘密基地</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 13 Jul 2025 20:44:45 +0800</lastBuildDate>
-    <atom:link href="https://www.yumieko.com/tags/%E6%80%BB%E8%A7%88/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2025 MinkieYume 版权所有。本站全部作品采用 [创作者共享协议](https://www.yumieko.com/license) 授权。</copyright>
+    <lastBuildDate>Sun, 13 Jul 2025 20:44:45 +0800</lastBuildDate><atom:link href="https://www.yumieko.com/tags/%E6%80%BB%E8%A7%88/index.xml" rel="self" type="application/rss+xml" />
+    
     <item>
       <title>明琪宇宙总览</title>
       <link>https://www.yumieko.com/spaces/yumi_world_simple/</link>
       <pubDate>Sun, 13 Jul 2025 20:44:45 +0800</pubDate>
+      
       <guid>https://www.yumieko.com/spaces/yumi_world_simple/</guid>
       <description></description>
+      
     </item>
+    
   </channel>
 </rss>

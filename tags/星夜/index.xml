@@ -4,30 +4,50 @@
     <title>星夜 on 明琪的秘密基地</title>
     <link>https://www.yumieko.com/tags/%E6%98%9F%E5%A4%9C/</link>
     <description>Recent content in 星夜 on 明琪的秘密基地</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 02 Jul 2025 19:48:42 +0800</lastBuildDate>
-    <atom:link href="https://www.yumieko.com/tags/%E6%98%9F%E5%A4%9C/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2025 MinkieYume 版权所有。本站全部作品采用 [创作者共享协议](https://www.yumieko.com/license) 授权。</copyright>
+    <lastBuildDate>Sat, 27 Sep 2025 14:52:00 +0800</lastBuildDate><atom:link href="https://www.yumieko.com/tags/%E6%98%9F%E5%A4%9C/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>星夜巡礼</title>
+      <link>https://www.yumieko.com/galleries/starnight-xunli/</link>
+      <pubDate>Sat, 27 Sep 2025 14:52:00 +0800</pubDate>
+      
+      <guid>https://www.yumieko.com/galleries/starnight-xunli/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.yumieko.com/galleries/starnight-xunli/feature-xyxl.png" />
+    </item>
+    
     <item>
       <title>星夜巡礼</title>
       <link>https://www.yumieko.com/fictions/galaxy_/</link>
       <pubDate>Wed, 02 Jul 2025 19:48:42 +0800</pubDate>
+      
       <guid>https://www.yumieko.com/fictions/galaxy_/</guid>
       <description></description>
+      
     </item>
+    
     <item>
       <title>星空下的秘密约定</title>
       <link>https://www.yumieko.com/musics/galaxy_secret_yakusouku/</link>
       <pubDate>Sun, 18 Jun 2023 00:00:00 +0800</pubDate>
+      
       <guid>https://www.yumieko.com/musics/galaxy_secret_yakusouku/</guid>
       <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.yumieko.com/musics/galaxy_secret_yakusouku/feature-minkie9.png" />
     </item>
+    
     <item>
       <title>星月夜、樱花舞</title>
       <link>https://www.yumieko.com/musics/galaxy_sakurafly/</link>
       <pubDate>Sun, 18 Jun 2023 00:00:00 +0800</pubDate>
+      
       <guid>https://www.yumieko.com/musics/galaxy_sakurafly/</guid>
       <description></description>
+      
     </item>
+    
   </channel>
 </rss>

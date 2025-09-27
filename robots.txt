@@ -1,1 +1,3 @@
 User-agent: *
+Allow: /
+Sitemap: https://www.yumieko.com/sitemap.xml

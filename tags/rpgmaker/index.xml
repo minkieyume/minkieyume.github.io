@@ -4,16 +4,20 @@
     <title>RPGMAKER on 明琪的秘密基地</title>
     <link>https://www.yumieko.com/tags/rpgmaker/</link>
     <description>Recent content in RPGMAKER on 明琪的秘密基地</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 30 Jun 2025 08:00:00 +0800</lastBuildDate>
-    <atom:link href="https://www.yumieko.com/tags/rpgmaker/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2025 MinkieYume 版权所有。本站全部作品采用 [创作者共享协议](https://www.yumieko.com/license) 授权。</copyright>
+    <lastBuildDate>Mon, 30 Jun 2025 08:00:00 +0800</lastBuildDate><atom:link href="https://www.yumieko.com/tags/rpgmaker/index.xml" rel="self" type="application/rss+xml" />
+    
     <item>
       <title>RM创作大赛作品 迷宫冒险</title>
       <link>https://www.yumieko.com/games/rm-migong/</link>
       <pubDate>Mon, 30 Jun 2025 08:00:00 +0800</pubDate>
+      
       <guid>https://www.yumieko.com/games/rm-migong/</guid>
       <description></description>
+      
     </item>
+    
   </channel>
 </rss>

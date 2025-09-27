@@ -4,16 +4,20 @@
     <title>梦真 on 明琪的秘密基地</title>
     <link>https://www.yumieko.com/tags/%E6%A2%A6%E7%9C%9F/</link>
     <description>Recent content in 梦真 on 明琪的秘密基地</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 18 Jun 2022 00:00:00 +0800</lastBuildDate>
-    <atom:link href="https://www.yumieko.com/tags/%E6%A2%A6%E7%9C%9F/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2025 MinkieYume 版权所有。本站全部作品采用 [创作者共享协议](https://www.yumieko.com/license) 授权。</copyright>
+    <lastBuildDate>Sat, 18 Jun 2022 00:00:00 +0800</lastBuildDate><atom:link href="https://www.yumieko.com/tags/%E6%A2%A6%E7%9C%9F/index.xml" rel="self" type="application/rss+xml" />
+    
     <item>
       <title>梦之序曲</title>
       <link>https://www.yumieko.com/musics/yumestart/</link>
       <pubDate>Sat, 18 Jun 2022 00:00:00 +0800</pubDate>
+      
       <guid>https://www.yumieko.com/musics/yumestart/</guid>
       <description></description>
+      
     </item>
+    
   </channel>
 </rss>

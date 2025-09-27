@@ -4,16 +4,20 @@
     <title>蜗牛少女 on 明琪的秘密基地</title>
     <link>https://www.yumieko.com/tags/%E8%9C%97%E7%89%9B%E5%B0%91%E5%A5%B3/</link>
     <description>Recent content in 蜗牛少女 on 明琪的秘密基地</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 18 Jun 2022 18:00:00 +0800</lastBuildDate>
-    <atom:link href="https://www.yumieko.com/tags/%E8%9C%97%E7%89%9B%E5%B0%91%E5%A5%B3/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2025 MinkieYume 版权所有。本站全部作品采用 [创作者共享协议](https://www.yumieko.com/license) 授权。</copyright>
+    <lastBuildDate>Sat, 18 Jun 2022 18:00:00 +0800</lastBuildDate><atom:link href="https://www.yumieko.com/tags/%E8%9C%97%E7%89%9B%E5%B0%91%E5%A5%B3/index.xml" rel="self" type="application/rss+xml" />
+    
     <item>
       <title>2022CIGA gamejam参赛作 「蜗牛少女」空中森林小队完成</title>
       <link>https://www.yumieko.com/games/gamejam2022/</link>
       <pubDate>Sat, 18 Jun 2022 18:00:00 +0800</pubDate>
+      
       <guid>https://www.yumieko.com/games/gamejam2022/</guid>
       <description></description>
+      
     </item>
+    
   </channel>
 </rss>

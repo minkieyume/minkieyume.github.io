@@ -4,65 +4,90 @@
     <title>游戏日志 on 明琪的秘密基地</title>
     <link>https://www.yumieko.com/tags/%E6%B8%B8%E6%88%8F%E6%97%A5%E5%BF%97/</link>
     <description>Recent content in 游戏日志 on 明琪的秘密基地</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 18 Jun 2024 18:00:00 +0800</lastBuildDate>
-    <atom:link href="https://www.yumieko.com/tags/%E6%B8%B8%E6%88%8F%E6%97%A5%E5%BF%97/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2025 MinkieYume 版权所有。本站全部作品采用 [创作者共享协议](https://www.yumieko.com/license) 授权。</copyright>
+    <lastBuildDate>Tue, 18 Jun 2024 18:00:00 +0800</lastBuildDate><atom:link href="https://www.yumieko.com/tags/%E6%B8%B8%E6%88%8F%E6%97%A5%E5%BF%97/index.xml" rel="self" type="application/rss+xml" />
+    
     <item>
       <title>香格里拉物语：小萱失踪案开发日志#3</title>
       <link>https://www.yumieko.com/games/shangrira_gd_3/</link>
       <pubDate>Tue, 18 Jun 2024 18:00:00 +0800</pubDate>
+      
       <guid>https://www.yumieko.com/games/shangrira_gd_3/</guid>
       <description></description>
+      
     </item>
+    
     <item>
       <title>风雨旅记开发日志 #1基础的关卡原型完成</title>
       <link>https://www.yumieko.com/games/fuurain_nigigd_1/</link>
       <pubDate>Sun, 18 Jun 2023 18:00:00 +0800</pubDate>
+      
       <guid>https://www.yumieko.com/games/fuurain_nigigd_1/</guid>
       <description></description>
+      
     </item>
+    
     <item>
       <title>风雨旅记开发日志 #2战斗机制基本内容完成</title>
       <link>https://www.yumieko.com/games/fuurain_nigigd_2/</link>
       <pubDate>Sun, 18 Jun 2023 18:00:00 +0800</pubDate>
+      
       <guid>https://www.yumieko.com/games/fuurain_nigigd_2/</guid>
       <description></description>
+      
     </item>
+    
     <item>
       <title>风雨旅记开发日志 #4 这次的迭代接近尾声，准备下一次迭代</title>
       <link>https://www.yumieko.com/games/fuurain_nigigd_4/</link>
       <pubDate>Sun, 18 Jun 2023 18:00:00 +0800</pubDate>
+      
       <guid>https://www.yumieko.com/games/fuurain_nigigd_4/</guid>
       <description></description>
+      
     </item>
+    
     <item>
       <title>Godot 类东方 STG模板演示视频</title>
       <link>https://www.yumieko.com/games/godot_touhou_template/</link>
       <pubDate>Sat, 18 Jun 2022 18:00:00 +0800</pubDate>
+      
       <guid>https://www.yumieko.com/games/godot_touhou_template/</guid>
       <description></description>
+      
     </item>
+    
     <item>
       <title>风雨旅记开发日志 #3 愉快地推翻重来——和伙伴一起测试新的原型中</title>
       <link>https://www.yumieko.com/games/fuurain_nigigd_3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
       <guid>https://www.yumieko.com/games/fuurain_nigigd_3/</guid>
       <description></description>
+      
     </item>
+    
     <item>
       <title>香格里拉物语：小萱失踪案开发日志#1 新项目的立项</title>
       <link>https://www.yumieko.com/games/shangrira_gd_1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
       <guid>https://www.yumieko.com/games/shangrira_gd_1/</guid>
       <description></description>
+      
     </item>
+    
     <item>
       <title>香格里拉物语：小萱失踪案开发日志#2简单的抓猫猫AI范例完成</title>
       <link>https://www.yumieko.com/games/shangrira_gd_2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
       <guid>https://www.yumieko.com/games/shangrira_gd_2/</guid>
       <description></description>
+      
     </item>
+    
   </channel>
 </rss>

@@ -4,16 +4,20 @@
     <title>约定 on 明琪的秘密基地</title>
     <link>https://www.yumieko.com/tags/%E7%BA%A6%E5%AE%9A/</link>
     <description>Recent content in 约定 on 明琪的秘密基地</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 21 Jun 2025 09:07:04 +0800</lastBuildDate>
-    <atom:link href="https://www.yumieko.com/tags/%E7%BA%A6%E5%AE%9A/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2025 MinkieYume 版权所有。本站全部作品采用 [创作者共享协议](https://www.yumieko.com/license) 授权。</copyright>
+    <lastBuildDate>Sat, 21 Jun 2025 09:07:04 +0800</lastBuildDate><atom:link href="https://www.yumieko.com/tags/%E7%BA%A6%E5%AE%9A/index.xml" rel="self" type="application/rss+xml" />
+    
     <item>
       <title>约定</title>
       <link>https://www.yumieko.com/fictions/%E7%BA%A6%E5%AE%9A/</link>
       <pubDate>Sat, 21 Jun 2025 09:07:04 +0800</pubDate>
+      
       <guid>https://www.yumieko.com/fictions/%E7%BA%A6%E5%AE%9A/</guid>
       <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.yumieko.com/fictions/%E7%BA%A6%E5%AE%9A/featured.png" />
     </item>
+    
   </channel>
 </rss>
