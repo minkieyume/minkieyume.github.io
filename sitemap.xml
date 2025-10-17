@@ -3,13 +3,25 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>https://www.yumieko.com/fictions/</loc>
-    <lastmod>2025-09-27T20:14:46+08:00</lastmod>
+    <loc>https://www.yumieko.com/galleries/</loc>
+    <lastmod>2025-10-17T17:50:00+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://www.yumieko.com/</loc>
+    <lastmod>2025-10-17T17:50:00+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.yumieko.com/galleries/moon-night-yumi/</loc>
+    <lastmod>2025-10-17T17:50:00+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.yumieko.com/fictions/</loc>
     <lastmod>2025-09-27T20:14:46+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -17,12 +29,6 @@
   <url>
     <loc>https://www.yumieko.com/fictions/the-same-galaxy/</loc>
     <lastmod>2025-09-27T20:14:46+08:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://www.yumieko.com/galleries/</loc>
-    <lastmod>2025-09-27T14:52:00+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
