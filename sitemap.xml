@@ -3,13 +3,25 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>https://www.yumieko.com/games/</loc>
-    <lastmod>2025-10-19T19:30:30+08:00</lastmod>
+    <loc>https://www.yumieko.com/programs/</loc>
+    <lastmod>2025-11-12T12:26:02+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://www.yumieko.com/</loc>
+    <lastmod>2025-11-12T12:26:02+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.yumieko.com/programs/chiko-guix-deep/</loc>
+    <lastmod>2025-11-12T12:26:02+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.yumieko.com/games/</loc>
     <lastmod>2025-10-19T19:30:30+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -95,12 +107,6 @@
   <url>
     <loc>https://www.yumieko.com/games/night-city-create-nigi-3/</loc>
     <lastmod>2025-07-12T21:52:17+08:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://www.yumieko.com/programs/</loc>
-    <lastmod>2025-07-05T12:01:03+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
