@@ -261,12 +261,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://www.yumieko.com/license/</loc>
-    <lastmod>2025-07-03T11:44:35+08:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://www.yumieko.com/fictions/%E6%98%9F%E8%BE%B0%E5%A4%A7%E6%B5%B7%E4%B8%AD%E7%9A%84%E8%BF%BD%E5%AF%BB/</loc>
     <lastmod>2025-06-21T09:06:55+08:00</lastmod>
     <changefreq>daily</changefreq>
@@ -473,6 +467,11 @@
   <url>
     <loc>https://www.yumieko.com/games/gamejam2020/</loc>
     <lastmod>2020-06-18T18:00:00+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.yumieko.com/license/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
