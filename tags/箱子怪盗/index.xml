@@ -19,5 +19,15 @@
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.yumieko.com/games/kaitou-hako/feature_kaitou.png" />
     </item>
     
+    <item>
+      <title>箱子怪盗</title>
+      <link>https://www.yumieko.com/galleries/kaitou-hako-desu/</link>
+      <pubDate>Tue, 03 Feb 2026 00:00:00 +0800</pubDate>
+      
+      <guid>https://www.yumieko.com/galleries/kaitou-hako-desu/</guid>
+      <description></description>
+      
+    </item>
+    
   </channel>
 </rss>
